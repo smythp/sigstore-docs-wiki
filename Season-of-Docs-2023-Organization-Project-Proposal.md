@@ -1,5 +1,7 @@
 # Update, Reorganize, and Expand the Sigstore Docs
 
+[Apply to be the technical writer of Sigstore Docs via the application form](https://links.sigstore.dev/GSoD) 🎉 
+
 ## About your organization
 
 [Sigstore](https://sigstore.dev) offers a new standard for signing, verifying and protecting software. Enabling developers to sign and validate software, Sigstore offers simple solutions through keyless signing and transparency logs so that security can be seamlessly integrated into the development process. Sigstore offers a suite of technologies that include Cosign for signing software artifacts, the Fulcio certificate authority, the Rekor transparency log, Gitsign for signing Git commits, and policy-controller to enforce policies on Kubernetes clusters based on verifiable supply-chain metadata. These tools can be used independently, or as one single process, for a holistic approach to open source security.
@@ -60,3 +62,7 @@ Technical writer | 15,000.00 | 15,000.00 |  20 hours a week, 26 weeks = $28.85 
 ## Additional information
 
 [Lisa Tagliaferri](https://www.linkedin.com/in/lisa-tagliaferri/) is the maintainer of Sigstore docs and will serve as a mentor and community liaison. The technical writer working with Sigstore docs will be part of a growing community of Sigstore contributors, and will benefit from the knowledge of the extended community. They will be invited to join Sigstore community calls twice a month.
+
+## Apply
+
+If you would like to apply to be the technical writer working on Sigstore Docs through Google Season of Docs, please apply via the application link at [https://links.sigstore.dev/GSoD](https://links.sigstore.dev/GSoD).
