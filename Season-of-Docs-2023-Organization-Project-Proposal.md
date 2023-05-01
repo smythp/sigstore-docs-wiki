@@ -1,6 +1,9 @@
 # Update, Reorganize, and Expand the Sigstore Docs
 
-[Apply to be the technical writer of Sigstore Docs via the application form](https://links.sigstore.dev/GSoD) 🎉 
+**Update: April 30, 2023**
+> Thank you everyone for your interest in the Sigstore organization's Google Season of Docs project! The hiring committee has made their decision and the technical writer who will be moving forward has been contacted by email. The team plans to announce soon.
+> This was a difficult decision as there were over 130 applicants for only one role. If you have not received an email, you were not selected to join as the hired GSoD technical writer, and the hiring committee is unable to provide individualized feedback.
+> We value all contributions to Sigstore and Sigstore docs. Thank you for being a part of the Sigstore community and working to make open source more secure!
 
 ## About your organization
 
